@@ -1,4 +1,4 @@
-def get_power(arg,power):
+def get_power(arg, power):
 	print(arg)
 	a = 1
 	for i in range(power):
@@ -6,4 +6,4 @@ def get_power(arg,power):
 	return a
 
 
-print(get_power(2,45))
+print(get_power(2, 5))
